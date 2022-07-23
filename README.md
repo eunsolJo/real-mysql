@@ -1,5 +1,5 @@
 # 
 > [Real MySQL 8.0](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158392703) 내용 정리
 
-## chapter02. 객체 생성과 파괴
-- [item01. 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/eunsolJo/effective-java/blob/main/src/ch02/item01/item01.md)
+## chapter04. 아키텍처
+- [4.1 MySQL 엔진 아키텍처](https://github.com/eunsolJo/real-mysql/blob/main/src/chapter04/mysql-engine-architecture.md)
